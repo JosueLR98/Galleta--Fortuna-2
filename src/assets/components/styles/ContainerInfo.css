@@ -1,0 +1,38 @@
+.containerInfo_title {
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    text-shadow: 9px 9px 1px var(--gray);
+    text-transform: uppercase;
+    color: var(--White);
+    position: absolute;
+    transform: translate(-50%);
+    left: 50%;
+    top: 30px;
+}
+
+.containerInfo_quote {
+    color: #727272;
+    max-width: 400px;
+    background-image: url("/src/assets/images/rectangle.png");
+    padding: 20px;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    aspect-ratio: 2.55;
+}
+
+.containerInfo_author {
+    position: absolute;
+    transform: translate(-50%);
+    left: 50%;
+    bottom: 10px;
+    max-width: max-content;
+    margin: 0 auto;
+    font-weight: lighter;
+    padding: 10px 20px;
+    border-radius: 25%;
+    color: rgb(8, 0, 0);
+    background-color: rgba(255, 255, 255, 0.685);
+}

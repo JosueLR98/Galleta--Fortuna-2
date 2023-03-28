@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 0 10px;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.bg1 {
+  background-image: url("/src/assets/images/bg1.png");
+
+}
+
+.bg2 {
+  background-image: url("/src/assets/images/bg2.png");
+}
+
+.bg3 {
+  background-image: url("/src/assets/images/bg3.png");
+}
+
+.bg4 {
+  background-image: url("/src/assets/images/bg4.png");
+}

@@ -1,0 +1,21 @@
+.button {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width: 181px;
+    height: 44px;
+    text-align: center;
+    font-family: 'Fredoka';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    top: 230px;
+    font-size: 20px;
+    margin: 0 auto;
+    line-height: 24.2px;
+    background-color: #FFFFFF;
+    color: #727272;
+}

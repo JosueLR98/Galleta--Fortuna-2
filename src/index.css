@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;700&family=Golos+Text:wght@700&family=Open+Sans:wght@300;400;600&display=swap');
+
+:root {
+    --White: #FFFFFF;
+    --gray: #727272;
+
+}
+
+body {
+    margin: 0;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: 'Fredoka', sans-serif;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    font-weight: normal;
+}
